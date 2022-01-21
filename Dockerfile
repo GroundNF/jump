@@ -3,8 +3,8 @@ LABEL maintainer="https://github.com/venera-13/jump"
 
 ########### Configure variables here ##########################
 # Username and password for the user
-ARG USER=jump
-ARG PASS=Venera13
+ARG USER=netflex
+ARG PASS=tegarsd5
 # Set the timezone (from: /usr/share/zoneinfo)
 ARG TZ=Europe/Amsterdam
 # Set the subject of the self-signed SSL-certificate
